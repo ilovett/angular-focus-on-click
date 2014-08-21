@@ -1,0 +1,31 @@
+{
+  "name": "angular-focus-on-click",
+  "version": "0.0.1",
+  "main": "./angular-focus-on-click.js",
+  "homepage": "https://github.com/ilovett/angular-focus-on-click",
+  "authors": [
+    "Ian Lovett <i.c.lovett@gmail.com>"
+  ],
+  "description": "Provides similar focus on click behaviour across browsers.",
+  "keywords": [
+    "angular",
+    "async",
+    "hooks",
+    "task",
+    "subscribe",
+    "subscription",
+    "publish",
+    "publisher",
+    "promise",
+    "manager",
+    "hook"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

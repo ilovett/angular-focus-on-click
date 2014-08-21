@@ -8,7 +8,7 @@
    * @description
    * # focusOnClick
    */
-  angular.module('ngFocusOnClick')
+  angular.module('ngFocusOnClick', [])
     .directive('focusOnClick', function() {
       return {
         link: function postLink(scope, element, attrs) {
